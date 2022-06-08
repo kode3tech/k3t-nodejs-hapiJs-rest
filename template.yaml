@@ -3,14 +3,14 @@ kind: Template
 metadata:
   name: k3t-nodejs-hapiJs-rest
   title: NodeJs HapiJs Rest API
-  description: 
+  description: Cria um microserviço com exposição Rest usando nodeJs e HapiJs
   tags:
     - nodejs
     - rest
     - api
     - backend
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: service
   parameters:
     - title: Provide some simple information
